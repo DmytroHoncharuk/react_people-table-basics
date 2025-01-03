@@ -1,4 +1,4 @@
-`import './App.scss';
+import './App.scss';
 import { Navigate, Route, Routes } from 'react-router-dom';
 import { HomePage, NavBar, NotFoundPage, PeoplePage } from './components';
 
